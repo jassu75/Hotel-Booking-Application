@@ -1,4 +1,4 @@
-# Hotel-Booking-Application
+# Smart Travel
 This project was made by Tejas V Kangod, Varun, Suhith. This project is created using Android Studios. The user must first login into his account. Then he can use the application in order to book his desired hotel. There are combo packs as well which the user can take advantage of.
 
 ![image](https://github.com/jassu75/Hotel-Booking-Application/assets/122803006/ba018f1a-632d-4a33-abf4-8867cd5c1e77)
